@@ -1,0 +1,37 @@
+[
+{
+"id": 1,
+"name": "Сом",
+"latin_name": "Silurus glanis",
+"is_salt_water_fish": false,
+"sub_type_count": 10
+},
+{
+"id": 2,
+"name": "Треска",
+"latin_name": "Gadus morhua",
+"is_salt_water_fish": true,
+"sub_type_count": 5
+},
+{
+"id": 3,
+"name": "Карп",
+"latin_name": "Cyprinus carpio",
+"is_salt_water_fish": false,
+"sub_type_count": 8
+},
+{
+"id": 4,
+"name": "Сельдь",
+"latin_name": "Clupea harengus",
+"is_salt_water_fish": true,
+"sub_type_count": 4
+},
+{
+"id": 5,
+"name": "Лосось",
+"latin_name": "Salmo salar",
+"is_salt_water_fish": true,
+"sub_type_count": 6
+}
+]
